@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  SonApp
+//
+//  Created by lyons on 2019/2/25.
+//  Copyright © 2019 lyons. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define APPGROUPGETNOTIFICATION @"AppGroupGetNotification"
+
+#import "CommonFuction.h"
+
+#endif
